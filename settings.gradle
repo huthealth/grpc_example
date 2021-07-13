@@ -1,0 +1,4 @@
+rootProject.name = 'gRPC_OrderManagement'
+include 'server'
+include 'client'
+
